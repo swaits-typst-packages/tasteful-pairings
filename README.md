@@ -9,7 +9,7 @@ experience.
 ## Installation
 
 ```typ
-#import "@preview/tasteful-pairings:0.1.0": *
+#import "@preview/tasteful-pairings:0.1.0": font-pairings
 ```
 
 ## Usage
